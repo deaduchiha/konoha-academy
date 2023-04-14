@@ -1,3 +1,9 @@
 {
-  "greeting": "سلام دنیا"
+  "greeting": "سلام دنیا",
+  "buttonText": "کلیک کن",
+  "menu": {
+    "home": "خانه",
+    "about": "درباره ما",
+    "contact": "تماس با ما"
+  }
 }

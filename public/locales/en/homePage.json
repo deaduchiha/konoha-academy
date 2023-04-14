@@ -1,3 +1,9 @@
 {
-  "greeting": "Hello world!..."
+  "greeting": "Hello, World!",
+  "buttonText": "Click me",
+  "menu": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  }
 }
